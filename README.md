@@ -1,3 +1,5 @@
+![Alt text](screenshot.jpg?raw=true "PHP Pagination")
+
 # PHP Pagination
 Membuat paging dengan PHP MySQL & menggunakan Bootstrap.
 
@@ -7,4 +9,5 @@ Membuat paging dengan PHP MySQL & menggunakan Bootstrap.
 - Rename folder jadi `pagination`
 - Buat database `pagination`
 - Import `pagination.sql`
+- Setting database di `koneksi.php`
 - Buka `localhost/pagination`
